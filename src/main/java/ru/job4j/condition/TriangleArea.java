@@ -1,4 +1,4 @@
-package condition;
+package ru.job4j.condition;
 
 public class TriangleArea {
     public static double area(double a, double b, double c) {
