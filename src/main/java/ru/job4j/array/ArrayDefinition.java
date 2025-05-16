@@ -13,7 +13,7 @@ public class ArrayDefinition {
         System.out.println(ages.length);
         System.out.println(surnames.length);
         System.out.println(prices.length);
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < names.length; i++) {
             System.out.println(names[i]);
         }
     }
